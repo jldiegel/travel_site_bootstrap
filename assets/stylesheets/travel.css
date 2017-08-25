@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.flag {
+  width: 200px;
+}
+
+
+.row  {
+  height: 300px;
+  background-color: #222;
+}
+
+.card  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding-top: 50px;
+}
+
+.country  {
+  color: white;
+}
+
+
+.page-row {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+}
+
+#tableheader  {
+  text-align: center;
+}
+
+td, th{
+  text-align: center;
+}
